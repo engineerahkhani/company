@@ -1,0 +1,99 @@
+
+html, body{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.7;
+    background: #EAEAEA;
+}
+/* Remove the navbar's default rounded borders and increase the bottom margin */
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+}
+
+h1, h2, h3, h4{
+    font-family: 'Abel', sans-serif;
+}
+b, strong{
+    font-weight: 400;
+}
+#landing-section{
+    background-image: url("../img/3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-attachment: fixed;
+}
+.carousel-caption{
+    z-index: 10;
+}
+.carousel-inner > .item > img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: auto;
+}
+.carousel-inner > .item{
+    height: 500px;
+
+}
+.carousel-control{
+ padding-top: 20%;
+    color: #a71930;
+}
+.intro-block{
+    background: url(../images/purpalt.png) repeat;
+    padding: 100px 15px 60px;
+    color: #fff;
+}
+.text-muted{
+    color: #e9e6df;
+    font-weight: 100;
+}
+.tpad{
+    padding-top: 20px;
+}
+.padded{
+    padding: 100px 15px;
+}
+
+@media(min-width: 768px){
+    .carousel-inner > .item{
+        height: 700px;
+    }
+
+}
+
+/* Remove the jumbotron's default bottom margin */
+.jumbotron {
+    margin-bottom: 0;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+.sidebar-nav li {
+    line-height: 40px;
+}
+
+.sidebar-nav li a {
+    padding-right: 10px;
+
+    display: block;
+    text-decoration: none;
+    color: #999999;
+}
+
+.sidebar-nav li a:hover {
+    text-decoration: none;
+    color: #fff;
+    background: rgba(255,255,255,0.2);
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+    text-decoration: none;
+}
