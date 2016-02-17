@@ -21,14 +21,13 @@
     <div class="row">
         <div class="jumbotron" id="landing-section">
             <div class="container text-center">
-                <h1>Online Store</h1>
+                <h1>فروشگاه کیف و کفش</h1>
 
-                <p>Mission, Vission & Values</p>
+                <h2>متناسب با همه سلیقه ها</h2>
             </div>
-
         </div>
 
-        <nav class="navbar navbar-inverse">
+        <nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="420">
             <div class="container-fluid">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -127,7 +126,7 @@
                 <div class="col-sm-4">
                     <div class="panel panel-primary">
                         <div class="panel-heading">BLACK FRIDAY DEAL</div>
-                        <div class="panel-body"><img src="http://placehold.it/150x80?text=IMAGE" class="img-responsive"
+                        <div class="panel-body"><img src="img/1.jpg" class="img-responsive"
                                                      style="width:100%" alt="Image"></div>
                         <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
                     </div>
@@ -135,7 +134,7 @@
                 <div class="col-sm-4">
                     <div class="panel panel-primary">
                         <div class="panel-heading">BLACK FRIDAY DEAL</div>
-                        <div class="panel-body"><img src="http://placehold.it/150x80?text=IMAGE" class="img-responsive"
+                        <div class="panel-body"><img src="img/2.jpg" class="img-responsive"
                                                      style="width:100%" alt="Image"></div>
                         <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
                     </div>
@@ -143,7 +142,7 @@
                 <div class="col-sm-4">
                     <div class="panel panel-primary">
                         <div class="panel-heading">BLACK FRIDAY DEAL</div>
-                        <div class="panel-body"><img src="http://placehold.it/150x80?text=IMAGE" class="img-responsive"
+                        <div class="panel-body"><img src="img/4.jpg" class="img-responsive"
                                                      style="width:100%" alt="Image"></div>
                         <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
                     </div>
