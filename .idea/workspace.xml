@@ -2,7 +2,145 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef486ff2-78fc-44eb-8798-e0e041440a0e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/irsans.ttf" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/BYekan.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/BYekan.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/BYekan.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/irsans.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BBadr.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BBadr.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BBadr.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BBaran.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BBaran.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BBaran.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BBardiya.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BBardiya.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BBardiya.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BCompset.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BCompset.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BCompset.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BDavat.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BDavat.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BDavat.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BElham.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BElham.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BElham.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BEsfehanBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BEsfehanBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BEsfehanBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BFantezy.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BFantezy.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BFantezy.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BFarnaz.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BFarnaz.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BFarnaz.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BFerdosi.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BFerdosi.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BFerdosi.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BHamid.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BHamid.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BHamid.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BHelal.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BHelal.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BHelal.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BHoma.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BHoma.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BHoma.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BJadidBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BJadidBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BJadidBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BJalal.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BJalal.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BJalal.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BKoodakBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BKoodakBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BKoodakBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BKourosh.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BKourosh.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BKourosh.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BLotus.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BLotus.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BLotus.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMahsa.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMahsa.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMahsa.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMehrBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMehrBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMehrBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMitra.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMitra.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMitra.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMorvarid.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMorvarid.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BMorvarid.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BNarm.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BNarm.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BNarm.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BNasimBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BNasimBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BNasimBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BNazanin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BNazanin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BNazanin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BRoya.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BRoya.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BRoya.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BSetarehBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BSetarehBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BSetarehBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BShiraz.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BShiraz.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BShiraz.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BSinaBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BSinaBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BSinaBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTabassom.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTabassom.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTabassom.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTehran.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTehran.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTehran.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTitrBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTitrBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTitrBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTitrTGEBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTitrTGEBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTitrTGEBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTraffic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTraffic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BTraffic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BVahidBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BVahidBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BVahidBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BYagut.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BYagut.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BYagut.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BYas.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BYas.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BYas.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BYekan.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BYekan.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BYekan.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BZar.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BZar.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BZar.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BZiba.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BZiba.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/BZiba.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/web-fonts/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styleSheet.css" afterPath="$PROJECT_DIR$/css/styleSheet.css" />
@@ -28,21 +166,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="styleSheet.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="styleSheet.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styleSheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.26923">
-              <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.30745342">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3938906">
-              <caret line="144" column="67" selection-start-line="144" selection-start-column="67" selection-end-line="144" selection-end-column="67" />
+            <state vertical-scroll-proportion="-20.689655">
+              <caret line="56" column="50" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -51,8 +189,8 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.7454543">
-              <caret line="4365" column="17" selection-start-line="4365" selection-start-column="17" selection-end-line="4365" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4498" column="27" selection-start-line="4498" selection-start-column="21" selection-end-line="4498" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -67,8 +205,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/css/styleSheet.css" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/styleSheet.css" />
       </list>
     </option>
   </component>
@@ -82,10 +220,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="786" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1298" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -112,7 +250,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -128,6 +266,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -161,7 +313,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,6 +324,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AHMAD\Documents\GitHub\USBWebserver v8.6\root\company\img" />
       <recent name="C:\Users\AHMAD\Documents\GitHub\USBWebserver v8.6\root\company\fonts" />
       <recent name="C:\Users\engin\Documents\GitHub\USBWebserver v8.6\root\company\css" />
     </key>
@@ -231,10 +384,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
+    <frame x="-9" y="-9" width="1298" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2484375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -269,6 +422,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/styleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4498" column="27" selection-start-line="4498" selection-start-column="21" selection-end-line="4498" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4365" column="17" selection-start-line="4365" selection-start-column="17" selection-end-line="4365" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -341,16 +542,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../AsreMajazi/css/articlesStyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19131833">
           <caret line="7" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -358,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27331188">
           <caret line="10" column="39" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -366,30 +560,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/iranianSans/iranianSans.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06832298">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.7454543">
-          <caret line="4365" column="17" selection-start-line="4365" selection-start-column="17" selection-end-line="4365" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styleSheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.26923">
-          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4498" column="27" selection-start-line="4498" selection-start-column="21" selection-end-line="4498" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3938906">
-          <caret line="144" column="67" selection-start-line="144" selection-start-column="67" selection-end-line="144" selection-end-column="67" />
+        <state vertical-scroll-proportion="-20.689655">
+          <caret line="56" column="50" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30745342">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding />
         </state>
       </provider>
