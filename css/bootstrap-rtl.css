@@ -1126,7 +1126,7 @@ th {
 }
 @media (min-width: 768px) {
   .navbar-header {
-    float: right;
+    float: left;
   }
 }
 .navbar-collapse {

@@ -10,13 +10,16 @@ body{
     background-attachment: fixed;
 }
 #wrapContainer{
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.9);
     margin-top: 50px;
     padding-top: 5px;
 }
 .navbar-default {
-    background-color: #d5641c;
-    border-color: #d5641c;
+    background-color:#ffffff;
+
+}
+.navbar-brand {
+    float: left!important;
 }
 footer {
     background-color: #f2f2f2;
@@ -25,7 +28,7 @@ footer {
 
 .carousel-inner img {
     width: 100%; /* Set width to 100% */
-    min-height: 200px;
+    max-height: 200px;
 }
 
 /* Hide the carousel text when the screen is less than 600 pixels wide */
